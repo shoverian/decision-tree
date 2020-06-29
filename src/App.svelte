@@ -17,7 +17,8 @@
 				break;
 			case 'RedThing':
 				isActive = 'GreenThing';
-				document.body.style.backgroundColor = "#5cbbca";
+        document.body.style.backgroundColor = "#5cbbca";
+        break;
 			default:
 				break;
 		}
@@ -35,7 +36,8 @@
 				break;
 			case 'RedThing':
 				isActive = 'BlueThing';
-				document.body.style.backgroundColor = "#0c1e21";
+        document.body.style.backgroundColor = "#0c1e21";
+        break;
 			default:
 				break;
 		}
