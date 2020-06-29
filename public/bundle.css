@@ -1,3 +1,6 @@
-main.svelte-17gxokm{text-align:center;padding:1em;max-width:240px;margin:0 auto}h1.svelte-17gxokm{color:#ff3e00;text-transform:uppercase;font-size:4em;font-weight:100}@media(min-width: 640px){main.svelte-17gxokm{max-width:none}}
+:root{--font-stack:'Roboto', sans-serif;--dark-bg-color:#0c1e21;--dark-text-color:#1c8c9e}html, body{background-color:#0c1e21;color:#1c8c9e;font-family:'Poppins', sans-serif;font-weight:400;margin:0}h1.svelte-144byl6{margin:2.75rem 0 1.05rem;font-family:'Poppins', sans-serif;font-weight:400;line-height:1.15}h1.svelte-144byl6{margin-top:0;font-weight:400!important}.section-container.svelte-144byl6{align-content:center;display:flex;flex-direction:column;height:100vh;justify-content:center}.section-content.svelte-144byl6{display:flex;flex-direction:column;justify-content:center;text-align:center}button.btn.svelte-144byl6{background:transparent;color:#fff;display:inline-block;border:3px solid #fff;border-radius:4px;font-size:2.369em;margin:25px;padding:1rem;text-decoration:none;width:300px}button.btn.svelte-144byl6:hover{background-color:rgba(255,255,255, .15);transition:all .3s ease-out}
+h1.question.svelte-gq5srb{display:inline;text-align:center;font-weight:400;font-size:67.344px!important}
+h1.question.svelte-lpwckr{display:inline;text-align:center;font-weight:400;font-size:67.344px!important}
+h1.question.svelte-111td4f{display:inline;text-align:center;font-weight:400;font-size:67.344px!important}
 
 /*# sourceMappingURL=bundle.css.map */
