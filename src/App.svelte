@@ -1,5 +1,4 @@
 <script>
-	import { fade } from 'svelte/transition';
 	import BlueThing from './BlueThing.svelte';
 	import GreenThing from './GreenThing.svelte';
 	import RedThing from './RedThing.svelte';
